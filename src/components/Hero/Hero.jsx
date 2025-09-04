@@ -1,5 +1,5 @@
 import "./Hero.css";
-import foto from "../../assets/Walisson Almeida.png";
+import foto from "../../assets/Walisson Almeida.jpg";
 
 export default function Hero() {
   return (
