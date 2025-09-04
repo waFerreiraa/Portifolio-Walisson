@@ -1,0 +1,26 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: #0f111a;
+  color: #eaeaea;
+  scroll-behavior: smooth;
+}
+
+main {
+  padding-top: 70px;
+}
+
+section {
+  padding: 80px 20px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+h2, h3 {
+  text-align: center;
+  margin-bottom: 40px;
+}

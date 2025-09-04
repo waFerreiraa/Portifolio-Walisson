@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(270deg, #0f2027, #203a43, #2c5364);
+  background-size: 600% 600%;
+  animation: gradientAnimation 20s ease infinite;
+  color: #eaeaea;
+}
+
+@keyframes gradientAnimation {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+a {
+  transition: 0.3s;
+}
+a:hover {
+  color: #00e5ff;
+  text-shadow: 0 0 8px #00e5ff;
+}
