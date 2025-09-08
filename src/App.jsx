@@ -5,9 +5,12 @@ import Projects from "./components/Projects/Projects";
 import About from "./components/About/About";
 import Contact from "./components/Contact/Contact";
 import Footer from "./components/Footer/Footer";
+import useScrollSnap from "./scrollSnap"; // importa o hook
 import "./App.css";
 
 function App() {
+  useScrollSnap(); // ativa o scroll snap
+
   return (
     <div>
       <Header />

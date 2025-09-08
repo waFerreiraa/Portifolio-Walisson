@@ -5,7 +5,7 @@ export default function Header() {
     <header className="header">
       <h1 className="logo">Walisson Almeida</h1>
       <nav>
-        <a href="Hero.jsx">Home</a>
+        <a href="#hero">Home</a>
         <a href="#skills">Skills</a>
         <a href="#projects">Projetos</a>
         <a href="#about">Sobre</a>

@@ -51,7 +51,6 @@
   color: #d18aff;
 }
 
-/* Responsivo Projects */
 @media (max-width: 768px) {
   .projects-grid {
     gap: 20px;

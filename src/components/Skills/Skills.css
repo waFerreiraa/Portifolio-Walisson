@@ -52,7 +52,6 @@
   color: #fff;
 }
 
-/* Responsivo Skills */
 @media (max-width: 768px) {
   .skills-grid {
     gap: 20px;

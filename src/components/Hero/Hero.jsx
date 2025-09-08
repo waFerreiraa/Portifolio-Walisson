@@ -3,7 +3,7 @@ import foto from "../../assets/Walisson Almeida.jpg";
 
 export default function Hero() {
   return (
-    <section className="hero">
+    <section id="hero" className="hero">
       <div className="hero-text" data-aos="fade-right">
         <h2>Olá, eu sou <span>Walisson Almeida</span></h2>
         <p>
